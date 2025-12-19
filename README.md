@@ -54,8 +54,8 @@ The system cross-references these predictions with a **Knowledge Domain** to ens
 
 ## Dataset Links:
 
-- (Tabular Dataset)[https://www.kaggle.com/code/abdullahbasit/soil-classification?select=Crop_recommendation.csv]
-- (Soil Images)[https://www.kaggle.com/code/abdullahbasit/soil-classification/input]
+- [Tabular Dataset](https://www.kaggle.com/code/abdullahbasit/soil-classification?select=Crop_recommendation.csv)
+- [Soil Images](https://www.kaggle.com/code/abdullahbasit/soil-classification/input)
 
 ## Impact
 This system empowers precision agriculture by reducing crop failure risks through multi-modal verification, ensuring that recommendations are both climatically and geologically sound.
