@@ -14,7 +14,7 @@ The system cross-references these predictions with a **Knowledge Domain** to ens
 .
 ├── artifacts/              # Model checkpoints (best_resnet_soil.pth)
 ├── data/
-│   ├── soil_images/        # Original and Augmented (CyAUG) soil datasets
+│   ├── soil_images/        # Original and Augmented (CyAUG) soil datasets (gitignored due to large file size)
 │   └── tabular/            # Crop recommendation CSV data
 ├── rs.ipynb                # Main development notebook
 ├── requirements.txt        # Project dependencies
@@ -51,6 +51,11 @@ The system cross-references these predictions with a **Knowledge Domain** to ens
 
 2. **Run the Notebook:**
    Open `rs.ipynb` in VS Code or Jupyter Lab to see the full EDA, training, and evaluation process.
+
+## Dataset Links:
+
+- (Tabular Dataset)[https://www.kaggle.com/code/abdullahbasit/soil-classification?select=Crop_recommendation.csv]
+- (Soil Images)[https://www.kaggle.com/code/abdullahbasit/soil-classification/input]
 
 ## Impact
 This system empowers precision agriculture by reducing crop failure risks through multi-modal verification, ensuring that recommendations are both climatically and geologically sound.
